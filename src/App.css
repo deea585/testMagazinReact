@@ -6,11 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+.poza {
+  width: 400px;
+ }
+     
+ .App-poza {
     animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -36,3 +37,31 @@
     transform: rotate(360deg);
   }
 }
+.container-produs{
+  background-color: rgb(31, 29, 29);
+  /* border-style: solid; */
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+ margin-top: 15px;
+ margin-bottom: 15px;
+ margin-left: 30px;
+ padding-bottom: 20px;
+    
+}
+.arome-text {
+  color: rgb(121, 93, 93);
+}
+
+.header-display {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  background-color: rgb(12, 11, 11);
+  color: white;
+  
+}
+.tara-text{
+  color: aquamarine;
+
+}
+
