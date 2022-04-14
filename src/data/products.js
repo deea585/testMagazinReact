@@ -1,6 +1,6 @@
 const produse = [
     {
-      name: "beciul pulesc",
+      name: "beciul domnesc",
       id: 1,
       pret: 1023,
       tara: "Romania",
